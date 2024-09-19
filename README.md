@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello visitor 👽
+
+Somehow you landed in this profile. While my secret agents perform a background check to decide whether you're a threat or just a random user wandering around aimlessly, feel free to explore the secrets that lie beneath these projects. You will soon realise that there are no secrets. Because the source code is public. Because all of them are open source.
+
+
 
 <!--
 **VasilisG/VasilisG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
